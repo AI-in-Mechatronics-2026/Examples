@@ -1,2 +1,2 @@
-# Assignments
-Thư mục để học viên nộp bài tập
+# Examples
+Các chương trình ví dụ
